@@ -2,6 +2,8 @@
 
 Le jeu Undercover entre amis, chacun sur son écran, avec des thèmes. Premier thème : **League of Legends** (tous les champions, avec leur illustration officielle).
 
+**Jouer en ligne : https://undercover-lol-7vw1.onrender.com** (hébergement gratuit : après une période d'inactivité, la première ouverture prend environ une minute).
+
 - Les **civils** reçoivent un champion, l'**Undercover** un champion très proche (sans savoir qu'il est l'Undercover), **Mr. White** ne reçoit rien.
 - Chaque champion fait partie de **plusieurs paires** : avoir Garen ne dit pas si l'autre est Darius, Jarvan IV, Sett…
 - Indices à l'oral (en vrai ou sur Discord) ou écrits dans le site, votes secrets sur chaque écran, revote en cas d'égalité.
