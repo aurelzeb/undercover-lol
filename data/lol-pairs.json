@@ -1,0 +1,2880 @@
+{
+ "aliases": {
+  "Aatrox": [],
+  "Ahri": [],
+  "Akali": [],
+  "Akshan": [],
+  "Alistar": [
+   "Ali"
+  ],
+  "Ambessa": [],
+  "Amumu": [
+   "Mumu"
+  ],
+  "Anivia": [],
+  "Annie": [],
+  "Aphelios": [
+   "Aph"
+  ],
+  "Ashe": [],
+  "AurelionSol": [
+   "Asol"
+  ],
+  "Aurora": [],
+  "Azir": [],
+  "Bard": [],
+  "Belveth": [],
+  "Blitzcrank": [
+   "Blitz"
+  ],
+  "Brand": [],
+  "Braum": [],
+  "Briar": [],
+  "Caitlyn": [
+   "Cait"
+  ],
+  "Camille": [],
+  "Cassiopeia": [
+   "Cass",
+   "Cassio"
+  ],
+  "Chogath": [
+   "Cho"
+  ],
+  "Corki": [],
+  "Darius": [],
+  "Diana": [],
+  "DrMundo": [
+   "Mundo"
+  ],
+  "Draven": [],
+  "Ekko": [],
+  "Elise": [],
+  "Evelynn": [
+   "Eve"
+  ],
+  "Ezreal": [
+   "Ez"
+  ],
+  "Fiddlesticks": [
+   "Fiddle"
+  ],
+  "Fiora": [],
+  "Fizz": [],
+  "Galio": [],
+  "Gangplank": [
+   "GP"
+  ],
+  "Garen": [],
+  "Gnar": [],
+  "Gragas": [
+   "Grag"
+  ],
+  "Graves": [],
+  "Gwen": [],
+  "Hecarim": [
+   "Heca"
+  ],
+  "Heimerdinger": [
+   "Heimer",
+   "Donger"
+  ],
+  "Hwei": [],
+  "Illaoi": [],
+  "Irelia": [],
+  "Ivern": [],
+  "Janna": [],
+  "JarvanIV": [
+   "J4",
+   "Jarvan"
+  ],
+  "Jax": [],
+  "Jayce": [],
+  "Jhin": [],
+  "Jinx": [
+   "Powder"
+  ],
+  "KSante": [],
+  "Kaisa": [],
+  "Kalista": [
+   "Kali"
+  ],
+  "Karma": [],
+  "Karthus": [],
+  "Kassadin": [
+   "Kass"
+  ],
+  "Katarina": [
+   "Kata",
+   "Kat"
+  ],
+  "Kayle": [],
+  "Kayn": [
+   "Rhaast"
+  ],
+  "Kennen": [],
+  "Khazix": [
+   "Kha"
+  ],
+  "Kindred": [],
+  "Kled": [],
+  "KogMaw": [
+   "Kog"
+  ],
+  "Leblanc": [
+   "LB"
+  ],
+  "LeeSin": [
+   "Lee"
+  ],
+  "Leona": [],
+  "Lillia": [],
+  "Lissandra": [
+   "Liss"
+  ],
+  "Locke": [],
+  "Lucian": [],
+  "Lulu": [],
+  "Lux": [
+   "Luxanna"
+  ],
+  "Malphite": [
+   "Malph"
+  ],
+  "Malzahar": [
+   "Malz",
+   "Malza"
+  ],
+  "Maokai": [
+   "Mao"
+  ],
+  "MasterYi": [
+   "Yi",
+   "Master Yi"
+  ],
+  "Mel": [],
+  "Milio": [],
+  "MissFortune": [
+   "MF"
+  ],
+  "MonkeyKing": [
+   "Monkey King",
+   "Wu"
+  ],
+  "Mordekaiser": [
+   "Morde"
+  ],
+  "Morgana": [
+   "Morg",
+   "Morga"
+  ],
+  "Naafiri": [],
+  "Nami": [],
+  "Nasus": [],
+  "Nautilus": [
+   "Naut",
+   "Nau",
+   "Nauti"
+  ],
+  "Neeko": [],
+  "Nidalee": [
+   "Nida",
+   "Nid"
+  ],
+  "Nilah": [],
+  "Nocturne": [
+   "Noc",
+   "Noct"
+  ],
+  "Nunu": [
+   "Nunu",
+   "Willump",
+   "Nunu & Willump"
+  ],
+  "Olaf": [],
+  "Orianna": [
+   "Ori"
+  ],
+  "Ornn": [],
+  "Pantheon": [
+   "Panth"
+  ],
+  "Poppy": [],
+  "Pyke": [],
+  "Qiyana": [],
+  "Quinn": [
+   "Valor"
+  ],
+  "Rakan": [],
+  "Rammus": [],
+  "RekSai": [
+   "Rek"
+  ],
+  "Rell": [],
+  "Renata": [
+   "Renata"
+  ],
+  "Renekton": [
+   "Renek",
+   "Croco"
+  ],
+  "Rengar": [],
+  "Riven": [],
+  "Rumble": [],
+  "Ryze": [],
+  "Samira": [],
+  "Sejuani": [
+   "Sej"
+  ],
+  "Senna": [],
+  "Seraphine": [
+   "Sera"
+  ],
+  "Sett": [],
+  "Shaco": [],
+  "Shen": [],
+  "Shyvana": [
+   "Shyv"
+  ],
+  "Singed": [],
+  "Sion": [],
+  "Sivir": [],
+  "Skarner": [],
+  "Smolder": [],
+  "Sona": [],
+  "Soraka": [
+   "Raka"
+  ],
+  "Swain": [],
+  "Sylas": [],
+  "Syndra": [],
+  "TahmKench": [
+   "Tahm"
+  ],
+  "Taliyah": [
+   "Tali"
+  ],
+  "Talon": [],
+  "Taric": [],
+  "Teemo": [],
+  "Thresh": [],
+  "Tristana": [
+   "Trist",
+   "Trista"
+  ],
+  "Trundle": [],
+  "Tryndamere": [
+   "Trynd",
+   "Trynda"
+  ],
+  "TwistedFate": [
+   "TF"
+  ],
+  "Twitch": [],
+  "Udyr": [],
+  "Urgot": [],
+  "Varus": [],
+  "Vayne": [],
+  "Veigar": [],
+  "Velkoz": [
+   "Vel"
+  ],
+  "Vex": [],
+  "Vi": [],
+  "Viego": [],
+  "Viktor": [],
+  "Vladimir": [
+   "Vlad"
+  ],
+  "Volibear": [
+   "Voli"
+  ],
+  "Warwick": [
+   "WW"
+  ],
+  "Xayah": [],
+  "Xerath": [],
+  "XinZhao": [
+   "Xin"
+  ],
+  "Yasuo": [
+   "Yas"
+  ],
+  "Yone": [],
+  "Yorick": [],
+  "Yunara": [],
+  "Yuumi": [],
+  "Zaahen": [],
+  "Zac": [],
+  "Zed": [],
+  "Zeri": [],
+  "Ziggs": [],
+  "Zilean": [],
+  "Zoe": [],
+  "Zyra": []
+ },
+ "pairs": [
+  {
+   "a": "Malphite",
+   "b": "Skarner",
+   "reason": "Colosses de pierre et de cristal d'Ixtal, tanks dont l'ulti lance l'engage",
+   "score": 3.5
+  },
+  {
+   "a": "Rammus",
+   "b": "Skarner",
+   "reason": "Bêtes cuirassées, tanks jungle qui chargent pour engager",
+   "score": 4
+  },
+  {
+   "a": "RekSai",
+   "b": "Skarner",
+   "reason": "Bêtes à carapace de la jungle qui traversent les murs pour engager",
+   "score": 3.5
+  },
+  {
+   "a": "Shyvana",
+   "b": "Smolder",
+   "reason": "Dragons cracheurs de feu au souffle enflammé",
+   "score": 4
+  },
+  {
+   "a": "AurelionSol",
+   "b": "Smolder",
+   "reason": "Dragons au souffle dévastateur dont la puissance se cumule à l'infini",
+   "score": 4
+  },
+  {
+   "a": "Seraphine",
+   "b": "Sona",
+   "reason": "Musiciennes support, soin et bouclier, passif au 3e sort, ulti musical en ligne",
+   "score": 5
+  },
+  {
+   "a": "Lux",
+   "b": "Sona",
+   "reason": "Démaciennes de famille noble à la magie cachée ou suspectée, mages support",
+   "score": 4
+  },
+  {
+   "a": "Nami",
+   "b": "Sona",
+   "reason": "Enchanteresses support : soin, buff d'attaque, ulti de contrôle en ligne",
+   "score": 3.5
+  },
+  {
+   "a": "Soraka",
+   "b": "Taric",
+   "reason": "Supports soigneurs de Targon aux pouvoirs célestes",
+   "score": 4
+  },
+  {
+   "a": "Bard",
+   "b": "Soraka",
+   "reason": "Êtres célestes bienveillants venus des étoiles, supports qui soignent",
+   "score": 4
+  },
+  {
+   "a": "Janna",
+   "b": "Soraka",
+   "reason": "Esprits bienveillants au look doux et éthéré, supports dont l'ulti soigne",
+   "score": 3.5
+  },
+  {
+   "a": "Fiddlesticks",
+   "b": "Swain",
+   "reason": "Corbeaux, puissance démoniaque, drain de vie et ambiance d'horreur",
+   "score": 4
+  },
+  {
+   "a": "Swain",
+   "b": "Vladimir",
+   "reason": "Mages sombres de Noxus qui drainent la vie et se soignent en zone",
+   "score": 3.5
+  },
+  {
+   "a": "Lux",
+   "b": "Sylas",
+   "reason": "Mages démaciens persécutés, liés en secret pendant sa captivité",
+   "score": 4
+  },
+  {
+   "a": "Orianna",
+   "b": "Syndra",
+   "reason": "Mages mid de contrôle à sphère(s) flottante(s), burst de zone",
+   "score": 4
+  },
+  {
+   "a": "Syndra",
+   "b": "Veigar",
+   "reason": "Mages obscurs mid avides de puissance, stun et ulti monocible qui achève",
+   "score": 4
+  },
+  {
+   "a": "Nautilus",
+   "b": "TahmKench",
+   "reason": "Tanks supports, créatures aquatiques massives qui hantent les eaux sombres",
+   "score": 4
+  },
+  {
+   "a": "Chogath",
+   "b": "TahmKench",
+   "reason": "Monstres géants qui dévorent leurs ennemis, tanks top",
+   "score": 4
+  },
+  {
+   "a": "Taliyah",
+   "b": "Yasuo",
+   "reason": "Mentor et élève, maîtres d'un élément, murs et projections en l'air",
+   "score": 3.5
+  },
+  {
+   "a": "Qiyana",
+   "b": "Taliyah",
+   "reason": "Jeunes mages élémentaires qui façonnent la terre et le terrain, mid ou jungle",
+   "score": 3.5
+  },
+  {
+   "a": "Azir",
+   "b": "Taliyah",
+   "reason": "Mages mid de contrôle de Shurima dont l'ulti crée un mur",
+   "score": 4
+  },
+  {
+   "a": "Katarina",
+   "b": "Talon",
+   "reason": "Famille Du Couteau de Noxus, assassins mid à lames et dashs",
+   "score": 5
+  },
+  {
+   "a": "Talon",
+   "b": "Zed",
+   "reason": "Assassins AD mid, lames, burst et frappes surgies de l'ombre",
+   "score": 4
+  },
+  {
+   "a": "Leona",
+   "b": "Taric",
+   "reason": "Aspects célestes de Targon, supports tanks à stun en armure brillante",
+   "score": 4
+  },
+  {
+   "a": "Braum",
+   "b": "Taric",
+   "reason": "Supports tanks protecteurs au grand cœur, bouclier pour alliés, étourdissement",
+   "score": 4
+  },
+  {
+   "a": "Teemo",
+   "b": "Tristana",
+   "reason": "Yordles de Bandle à l'esprit militaire, petits tireurs mignons à distance",
+   "score": 4
+  },
+  {
+   "a": "Kennen",
+   "b": "Teemo",
+   "reason": "Yordles rapides, top à distance, harcèlement à projectiles",
+   "score": 4
+  },
+  {
+   "a": "Teemo",
+   "b": "Twitch",
+   "reason": "Poison sur attaques, camouflage, petites bestioles sournoises à distance",
+   "score": 4
+  },
+  {
+   "a": "Shaco",
+   "b": "Teemo",
+   "reason": "Pièges, invisibilité, poison, champions trolls et détestés",
+   "score": 4
+  },
+  {
+   "a": "Pyke",
+   "b": "Thresh",
+   "reason": "Supports à crochet, morts-vivants sinistres qui attirent leurs proies",
+   "score": 4
+  },
+  {
+   "a": "Nautilus",
+   "b": "Thresh",
+   "reason": "Supports d'engage à crochet et chaîne qui attirent leur cible",
+   "score": 4
+  },
+  {
+   "a": "Senna",
+   "b": "Thresh",
+   "reason": "Âme emprisonnée dans la lanterne, Brume noire, supports qui récoltent des âmes",
+   "score": 4
+  },
+  {
+   "a": "Corki",
+   "b": "Tristana",
+   "reason": "Yordles tireurs de Bandle, roquettes et explosifs, dash offensif en W",
+   "score": 4
+  },
+  {
+   "a": "Tristana",
+   "b": "Ziggs",
+   "reason": "Yordles explosifs : bombes, saut propulsé par explosion (W), dégâts à distance",
+   "score": 4
+  },
+  {
+   "a": "Jinx",
+   "b": "Tristana",
+   "reason": "Tireuses bot à canon ou lance-roquettes, explosions, portée qui augmente",
+   "score": 4
+  },
+  {
+   "a": "Ashe",
+   "b": "Tryndamere",
+   "reason": "Couple marié à la tête des Avarosans du Freljord",
+   "score": 4
+  },
+  {
+   "a": "Olaf",
+   "b": "Tryndamere",
+   "reason": "Barbares berserkers du Freljord, plus forts à bas PV, ultime de rage",
+   "score": 4.5
+  },
+  {
+   "a": "MasterYi",
+   "b": "Tryndamere",
+   "reason": "Combattants à critiques et vitesse d'attaque, auto-soin, split-push à l'épée",
+   "score": 4
+  },
+  {
+   "a": "Garen",
+   "b": "Tryndamere",
+   "reason": "Guerriers top à grande épée, attaque en toupie (E), coups critiques",
+   "score": 4
+  },
+  {
+   "a": "Graves",
+   "b": "TwistedFate",
+   "reason": "Anciens complices escrocs, hors-la-loi de Bilgewater, style western",
+   "score": 5
+  },
+  {
+   "a": "Gangplank",
+   "b": "TwistedFate",
+   "reason": "Hors-la-loi de Bilgewater, ulti à portée globale, gagnent de l'or bonus",
+   "score": 3.5
+  },
+  {
+   "a": "Singed",
+   "b": "Twitch",
+   "reason": "Zaunites des produits chimiques, poison et nuages toxiques verts",
+   "score": 3.5
+  },
+  {
+   "a": "KogMaw",
+   "b": "Twitch",
+   "reason": "Tireurs hypercarry répugnants, poison ou acide, sort qui allonge la portée",
+   "score": 4
+  },
+  {
+   "a": "Twitch",
+   "b": "Vayne",
+   "reason": "Tireurs bot hypercarry à l'arbalète, invisibilité en combat",
+   "score": 4
+  },
+  {
+   "a": "Braum",
+   "b": "Nunu",
+   "reason": "Gentils géants du Freljord au grand cœur, sorts de glace qui ralentissent",
+   "score": 3.5
+  },
+  {
+   "a": "Braum",
+   "b": "Leona",
+   "reason": "Supports tanks à gros bouclier, protègent l'équipe et étourdissent",
+   "score": 3.5
+  },
+  {
+   "a": "Braum",
+   "b": "Ornn",
+   "reason": "Légendes colossales du Freljord, tanks massifs qui projettent dans les airs",
+   "score": 3.5
+  },
+  {
+   "a": "Briar",
+   "b": "Vladimir",
+   "reason": "Noxiens liés à la Rose noire, hémomancie : sang, vampirisme et vol de vie",
+   "score": 4
+  },
+  {
+   "a": "Briar",
+   "b": "Warwick",
+   "reason": "Cobayes assoiffés de sang, junglers en frénésie qui se soignent à bas PV",
+   "score": 4
+  },
+  {
+   "a": "Caitlyn",
+   "b": "Vi",
+   "reason": "Duo de justicières de Piltover, partenaires et couple dans Arcane",
+   "score": 4.5
+  },
+  {
+   "a": "Caitlyn",
+   "b": "Jinx",
+   "reason": "Tireuses bot rivales d'Arcane (Piltover/Zaun), pièges et ultime longue portée",
+   "score": 4.5
+  },
+  {
+   "a": "Caitlyn",
+   "b": "Jhin",
+   "reason": "Tireurs snipers à longue portée, pièges, tir surpuissant et ultime au viseur",
+   "score": 4
+  },
+  {
+   "a": "Camille",
+   "b": "Fiora",
+   "reason": "Duellistes top nobles et élégantes, dégâts bruts et ultime de duel",
+   "score": 4
+  },
+  {
+   "a": "Cassiopeia",
+   "b": "Katarina",
+   "reason": "Sœurs Du Couteau, filles d'un général noxien, championnes du mid",
+   "score": 4
+  },
+  {
+   "a": "Cassiopeia",
+   "b": "Elise",
+   "reason": "Nobles noxiennes devenues créatures (serpent, araignée), séduction et venin",
+   "score": 4
+  },
+  {
+   "a": "Corki",
+   "b": "Heimerdinger",
+   "reason": "Yordles moustachus installés à Piltover, passionnés de machines",
+   "score": 3.5
+  },
+  {
+   "a": "Corki",
+   "b": "Ziggs",
+   "reason": "Yordles de Piltover/Zaun, poke explosif à distance au mid, missiles et bombes",
+   "score": 4
+  },
+  {
+   "a": "Corki",
+   "b": "Rumble",
+   "reason": "Yordles pilotes de machines de guerre, cône de dégâts et salve de roquettes",
+   "score": 4
+  },
+  {
+   "a": "Corki",
+   "b": "Ezreal",
+   "reason": "Tireurs hybrides de Piltover, poke en skillshots, dash et build Trinity/Sheen",
+   "score": 4
+  },
+  {
+   "a": "Darius",
+   "b": "Draven",
+   "reason": "Frères noxiens maniant des haches, bourreaux qui exécutent leurs victimes",
+   "score": 5
+  },
+  {
+   "a": "Darius",
+   "b": "Garen",
+   "reason": "Colosses top rivaux Noxus/Demacia, tourbillon et ultime d'exécution",
+   "score": 5
+  },
+  {
+   "a": "Darius",
+   "b": "Sett",
+   "reason": "Brutes top musclées aux racines noxiennes, attirent et broient au contact",
+   "score": 3.5
+  },
+  {
+   "a": "Darius",
+   "b": "Sion",
+   "reason": "Guerriers noxiens à hache géante, colosses en armure du top",
+   "score": 4
+  },
+  {
+   "a": "Diana",
+   "b": "Leona",
+   "reason": "Aspects rivaux de Targon (Lune et Soleil), guerrières en armure qui bondissent",
+   "score": 5
+  },
+  {
+   "a": "Aphelios",
+   "b": "Diana",
+   "reason": "Lunari de Targon, guerriers de la lune en bleu et argent",
+   "score": 4
+  },
+  {
+   "a": "Diana",
+   "b": "Zoe",
+   "reason": "Aspects de Targon, puissance céleste, championnes AP du mid",
+   "score": 3.5
+  },
+  {
+   "a": "Draven",
+   "b": "Samira",
+   "reason": "Tireurs bot noxiens frimeurs, récompensés pour leur style et leurs exploits",
+   "score": 4
+  },
+  {
+   "a": "Draven",
+   "b": "Sivir",
+   "reason": "Tireurs bot dont l'arme lancée revient vers eux, avides de gloire et d'or",
+   "score": 3.5
+  },
+  {
+   "a": "DrMundo",
+   "b": "Singed",
+   "reason": "Fous de Zaun aux produits chimiques, tanks top increvables qui foncent",
+   "score": 4
+  },
+  {
+   "a": "DrMundo",
+   "b": "Zac",
+   "reason": "Tanks de Zaun façonnés par la chimie, énormes PV et grosse régénération",
+   "score": 3.5
+  },
+  {
+   "a": "DrMundo",
+   "b": "Urgot",
+   "reason": "Brutes monstrueuses de Zaun, anciens captifs, combattants coriaces du top",
+   "score": 3.5
+  },
+  {
+   "a": "Ekko",
+   "b": "Zilean",
+   "reason": "Maîtres du temps : ralentissent, accélèrent, l'ultime rembobine ou ressuscite",
+   "score": 4
+  },
+  {
+   "a": "Ekko",
+   "b": "Jinx",
+   "reason": "Amis d'enfance des bas-fonds de Zaun dans Arcane, ados punk inventifs",
+   "score": 3.5
+  },
+  {
+   "a": "Ekko",
+   "b": "Zeri",
+   "reason": "Ados des rues de Zaun devenus amis après un sauvetage, armes faites maison",
+   "score": 3.5
+  },
+  {
+   "a": "Ekko",
+   "b": "Vi",
+   "reason": "Enfants des bas-fonds de Zaun alliés dans Arcane, junglers de mêlée",
+   "score": 3.5
+  },
+  {
+   "a": "Ekko",
+   "b": "Viktor",
+   "reason": "Inventeurs prodiges de Zaun, technologie maison, mages AP du mid",
+   "score": 3.5
+  },
+  {
+   "a": "Elise",
+   "b": "Nidalee",
+   "reason": "Junglers AP à deux formes (humaine / animale), 3 sorts par forme",
+   "score": 4
+  },
+  {
+   "a": "Elise",
+   "b": "Evelynn",
+   "reason": "Séductrices monstrueuses qui attirent leurs proies, assassins AP de jungle",
+   "score": 4
+  },
+  {
+   "a": "Elise",
+   "b": "Vladimir",
+   "reason": "Aristocrates noxiens de la Rose noire, immortels qui vivent de leurs victimes",
+   "score": 4
+  },
+  {
+   "a": "Elise",
+   "b": "Leblanc",
+   "reason": "Noxiennes de la Rose noire, l'une a recruté l'autre, manipulatrices redoutables",
+   "score": 4
+  },
+  {
+   "a": "Ahri",
+   "b": "Evelynn",
+   "reason": "Séductrices avec un sort de charme, se nourrissent des humains, stars de K/DA",
+   "score": 4
+  },
+  {
+   "a": "Evelynn",
+   "b": "Shaco",
+   "reason": "Assassins de jungle invisibles, créatures sournoises et inquiétantes",
+   "score": 3.5
+  },
+  {
+   "a": "Evelynn",
+   "b": "Nocturne",
+   "reason": "Démons assassins de la jungle qui fondent sur des proies isolées",
+   "score": 4
+  },
+  {
+   "a": "Ezreal",
+   "b": "Lux",
+   "reason": "Duo blond culte des fans, poke en skillshots, ultime en rayon longue portée",
+   "score": 3.5
+  },
+  {
+   "a": "Ezreal",
+   "b": "Jayce",
+   "reason": "Héros vaniteux de Piltover, rois du poke à distance en skillshots",
+   "score": 3.5
+  },
+  {
+   "a": "Fiddlesticks",
+   "b": "Nocturne",
+   "reason": "Incarnations de la peur, junglers qui terrifient et fondent de loin en ultime",
+   "score": 4.5
+  },
+  {
+   "a": "Fiddlesticks",
+   "b": "Shaco",
+   "reason": "Horreurs sournoises de la jungle : leurres, peur et embuscades",
+   "score": 4
+  },
+  {
+   "a": "Evelynn",
+   "b": "Fiddlesticks",
+   "reason": "Démons qui se nourrissent d'émotions (douleur, peur), junglers AP",
+   "score": 4
+  },
+  {
+   "a": "Fiora",
+   "b": "Irelia",
+   "reason": "Duellistes du top maniant la lame : parade, dashs et gros dégâts en 1v1",
+   "score": 4
+  },
+  {
+   "a": "Fiora",
+   "b": "Vayne",
+   "reason": "Demaciennes de grande famille, duellistes, dégâts bruts en % des PV max",
+   "score": 4
+  },
+  {
+   "a": "Fiora",
+   "b": "Riven",
+   "reason": "Épéistes du top, dashs à répétition, redoutables en duel 1v1",
+   "score": 3.5
+  },
+  {
+   "a": "Fiora",
+   "b": "Garen",
+   "reason": "Épéistes nobles de Demacia au top, rois du splitpush et du duel",
+   "score": 3.5
+  },
+  {
+   "a": "Fiora",
+   "b": "Jax",
+   "reason": "Duellistes du top qui parent puis contre-attaquent, rois du splitpush",
+   "score": 3.5
+  },
+  {
+   "a": "Fizz",
+   "b": "Nami",
+   "reason": "Créatures marines dont l'ultime fait surgir l'océan (vague, requin)",
+   "score": 3.5
+  },
+  {
+   "a": "Fizz",
+   "b": "Pyke",
+   "reason": "Assassins de Bilgewater liés aux profondeurs, armés d'un trident ou harpon",
+   "score": 4
+  },
+  {
+   "a": "Nasus",
+   "b": "Renekton",
+   "reason": "Frères ascendants de Shurima, tops à tête animale (chacal, crocodile)",
+   "score": 5
+  },
+  {
+   "a": "Azir",
+   "b": "Nasus",
+   "reason": "Ascendants de Shurima à tête animale (faucon, chacal), demi-dieux du désert",
+   "score": 4
+  },
+  {
+   "a": "Naafiri",
+   "b": "Nasus",
+   "reason": "Canidés de Shurima : chacal ascendant et meute de chiens darkin",
+   "score": 3.5
+  },
+  {
+   "a": "Nautilus",
+   "b": "Pyke",
+   "reason": "Revenants des abysses de Bilgewater, trahis, supports à grappin",
+   "score": 5
+  },
+  {
+   "a": "Blitzcrank",
+   "b": "Nautilus",
+   "reason": "Supports à grappin au gros corps de métal lourd",
+   "score": 4
+  },
+  {
+   "a": "Leona",
+   "b": "Nautilus",
+   "reason": "Tanks supports engage : dash sur la cible et chaînes de stuns",
+   "score": 4
+  },
+  {
+   "a": "Neeko",
+   "b": "Zyra",
+   "reason": "Mages supports d'Ixtal, fleurs explosives et racines qui immobilisent",
+   "score": 4
+  },
+  {
+   "a": "Ahri",
+   "b": "Neeko",
+   "reason": "Vastayas mages du mid, liées aux émotions, mignonnes et espiègles",
+   "score": 3.5
+  },
+  {
+   "a": "Leblanc",
+   "b": "Neeko",
+   "reason": "Mages mid trompeuses : clones, déguisements et illusions",
+   "score": 4
+  },
+  {
+   "a": "Nidalee",
+   "b": "Rengar",
+   "reason": "Chasseurs félins d'Ixtal, junglers qui bondissent sur leur proie",
+   "score": 5
+  },
+  {
+   "a": "Nilah",
+   "b": "Samira",
+   "reason": "ADC bot agressives au contact, dashs, avides de combats et de sensations",
+   "score": 4
+  },
+  {
+   "a": "Nunu",
+   "b": "Sejuani",
+   "reason": "Junglers tanks du Freljord montés sur une bête, contrôles de glace",
+   "score": 5
+  },
+  {
+   "a": "Gnar",
+   "b": "Nunu",
+   "reason": "Petits êtres mignons du Freljord, liés à la glace et à une bête géante",
+   "score": 3.5
+  },
+  {
+   "a": "Olaf",
+   "b": "Sejuani",
+   "reason": "Griffe hivernale du Freljord : la mère de guerre et son berserker",
+   "score": 4
+  },
+  {
+   "a": "Orianna",
+   "b": "Viktor",
+   "reason": "Mages mid de Piltover/Zaun au corps mécanique",
+   "score": 4
+  },
+  {
+   "a": "Ornn",
+   "b": "Volibear",
+   "reason": "Frères demi-dieux du Freljord, géants bestiaux joués en top",
+   "score": 4.5
+  },
+  {
+   "a": "Anivia",
+   "b": "Ornn",
+   "reason": "Demi-dieux du Freljord, frère et sœur (glace, forge volcanique)",
+   "score": 3.5
+  },
+  {
+   "a": "Alistar",
+   "b": "Ornn",
+   "reason": "Tanks à cornes (taureau, bélier) qui chargent et projettent en l'air",
+   "score": 4
+  },
+  {
+   "a": "Malphite",
+   "b": "Ornn",
+   "reason": "Tanks top massifs, ultime de charge qui projette en l'air",
+   "score": 3.5
+  },
+  {
+   "a": "Leona",
+   "b": "Pantheon",
+   "reason": "Rakkors de Targon liés aux Aspects, bouclier, armure dorée et stuns",
+   "score": 4.5
+  },
+  {
+   "a": "JarvanIV",
+   "b": "Pantheon",
+   "reason": "Guerriers en armure maniant la lance, qui bondissent sur l'ennemi",
+   "score": 3.5
+  },
+  {
+   "a": "Quinn",
+   "b": "Vayne",
+   "reason": "Tireuses de Demacia à arbalète au poignet, roulade ou saut, top ou bot",
+   "score": 4
+  },
+  {
+   "a": "Rakan",
+   "b": "Xayah",
+   "reason": "Couple vastaya d'Ionie, plumes, duo bot inséparable",
+   "score": 5
+  },
+  {
+   "a": "Ahri",
+   "b": "Rakan",
+   "reason": "Vastayas charmeurs d'Ionie, dotés d'un sort de charme",
+   "score": 4
+  },
+  {
+   "a": "Amumu",
+   "b": "Rammus",
+   "reason": "Petits tanks junglers de Shurima, engage et contrôles de zone",
+   "score": 3.5
+  },
+  {
+   "a": "Malphite",
+   "b": "Rammus",
+   "reason": "Tanks dont les dégâts montent avec l'armure, charge d'engage",
+   "score": 3.5
+  },
+  {
+   "a": "Khazix",
+   "b": "RekSai",
+   "reason": "Prédateurs insectoïdes du Néant, junglers chasseurs de proies",
+   "score": 4
+  },
+  {
+   "a": "Belveth",
+   "b": "RekSai",
+   "reason": "Créatures du Néant, junglers combattantes qui dévorent tout",
+   "score": 3.5
+  },
+  {
+   "a": "Mordekaiser",
+   "b": "Yorick",
+   "reason": "Colosses du top lents et sombres, nécromanciens à l'aura spectrale verte",
+   "score": 3.5
+  },
+  {
+   "a": "Illaoi",
+   "b": "Yorick",
+   "reason": "Juggernauts top, prêtres qui invoquent tentacules ou goules pour combattre",
+   "score": 3.5
+  },
+  {
+   "a": "Varus",
+   "b": "Yunara",
+   "reason": "Tireurs bot d'Ionie, ennemis lors de la Grande Guerre des Darkin",
+   "score": 4
+  },
+  {
+   "a": "Lulu",
+   "b": "Yuumi",
+   "reason": "Enchanteresses de Bandle, supports à bouclier et compagnon magique (Pix, livre)",
+   "score": 4
+  },
+  {
+   "a": "Milio",
+   "b": "Yuumi",
+   "reason": "Supports enchanteurs mignons : soins, boucliers et vitesse pour les alliés",
+   "score": 4
+  },
+  {
+   "a": "Aatrox",
+   "b": "Zaahen",
+   "reason": "Darkins ailés du top, anciens Ascendants de Shurima, grande arme et soins",
+   "score": 5
+  },
+  {
+   "a": "XinZhao",
+   "b": "Zaahen",
+   "reason": "Hôte et Darkin d'un même corps, guerriers à arme d'hast, kit en hommage",
+   "score": 5
+  },
+  {
+   "a": "Kayn",
+   "b": "Zaahen",
+   "reason": "Guerriers liés à une arme Darkin, junglers qui se soignent en frappant",
+   "score": 4
+  },
+  {
+   "a": "Shen",
+   "b": "Zed",
+   "reason": "Ninjas ioniens à énergie, élevés ensemble au Kinkou puis rivaux",
+   "score": 5
+  },
+  {
+   "a": "Kayn",
+   "b": "Zed",
+   "reason": "Élève et maître de l'Ordre de l'Ombre, assassins ioniens des ombres",
+   "score": 5
+  },
+  {
+   "a": "Akali",
+   "b": "Zed",
+   "reason": "Ninjas assassins ioniens masqués, énergie, lames de jet, mid",
+   "score": 4.5
+  },
+  {
+   "a": "Jinx",
+   "b": "Zeri",
+   "reason": "Jeunes tireuses punk de Zaun, cheveux colorés, armes bricolées et électricité",
+   "score": 4
+  },
+  {
+   "a": "Jinx",
+   "b": "Ziggs",
+   "reason": "Complices de Zaun fous d'explosifs : mines au sol et ultime-bombe longue portée",
+   "score": 4
+  },
+  {
+   "a": "Heimerdinger",
+   "b": "Ziggs",
+   "reason": "Yordles inventeurs passés par Piltover, mages à gadgets et grenades",
+   "score": 5
+  },
+  {
+   "a": "AurelionSol",
+   "b": "Zoe",
+   "reason": "Êtres cosmiques de Targon, mages mid à la magie des étoiles",
+   "score": 4
+  },
+  {
+   "a": "Maokai",
+   "b": "Zyra",
+   "reason": "Plantes vengeresses, supports qui sèment des pousses et enracinent",
+   "score": 4
+  },
+  {
+   "a": "Ivern",
+   "b": "Zyra",
+   "reason": "Maîtres des plantes qui enracinent et font pousser des végétaux",
+   "score": 3.5
+  },
+  {
+   "a": "Udyr",
+   "b": "Volibear",
+   "reason": "Liés à l'esprit de l'ours du Freljord, junglers à charge étourdissante",
+   "score": 4
+  },
+  {
+   "a": "LeeSin",
+   "b": "Udyr",
+   "reason": "Moines torse nu formés en Ionie, junglers qui frappent à mains nues",
+   "score": 4.5
+  },
+  {
+   "a": "Darius",
+   "b": "Urgot",
+   "reason": "Colosses d'origine noxienne, ultime qui exécute, bruisers tanky du top",
+   "score": 4
+  },
+  {
+   "a": "Aatrox",
+   "b": "Varus",
+   "reason": "Darkins scellés dans une arme qui possèdent un hôte",
+   "score": 3.5
+  },
+  {
+   "a": "Ashe",
+   "b": "Varus",
+   "reason": "Tireurs bot à l'arc, ralentissements, flèche ultime qui immobilise",
+   "score": 4
+  },
+  {
+   "a": "Kayn",
+   "b": "Varus",
+   "reason": "Hôtes ioniens possédés par un Darkin, corps rongé par la corruption",
+   "score": 3.5
+  },
+  {
+   "a": "Jhin",
+   "b": "Varus",
+   "reason": "Tireurs ioniens meurtriers, poke à très longue portée, racine à distance",
+   "score": 4
+  },
+  {
+   "a": "Lucian",
+   "b": "Vayne",
+   "reason": "Chasseurs des ténèbres vengeurs, long manteau sombre, tireurs bot à dash",
+   "score": 4
+  },
+  {
+   "a": "Kalista",
+   "b": "Vayne",
+   "reason": "Tireuses bot vengeresses très mobiles",
+   "score": 3.5
+  },
+  {
+   "a": "Locke",
+   "b": "Vayne",
+   "reason": "Démaciens chasseurs de démons, argent contre le mal, look sombre",
+   "score": 4
+  },
+  {
+   "a": "Veigar",
+   "b": "Vex",
+   "reason": "Yordles des ténèbres, mages burst mid au tempérament sombre",
+   "score": 4
+  },
+  {
+   "a": "Lulu",
+   "b": "Veigar",
+   "reason": "Yordles magiciens au chapeau pointu violet, mages mid/support",
+   "score": 4
+  },
+  {
+   "a": "Annie",
+   "b": "Veigar",
+   "reason": "Tout petits mages mid, burst énorme, étourdissement, Q de last-hit",
+   "score": 4
+  },
+  {
+   "a": "Velkoz",
+   "b": "Xerath",
+   "reason": "Mages artillerie à lasers, poke très longue portée, mid/support, flottent",
+   "score": 4
+  },
+  {
+   "a": "Malzahar",
+   "b": "Velkoz",
+   "reason": "Mages du Néant, mid/support, magie du vide",
+   "score": 3.5
+  },
+  {
+   "a": "Annie",
+   "b": "Vex",
+   "reason": "Petites mages mid avec un compagnon (ours/ombre), passif de contrôle",
+   "score": 4
+  },
+  {
+   "a": "Jinx",
+   "b": "Vi",
+   "reason": "Sœurs d'Arcane, Zaun, cheveux colorés et tatouages",
+   "score": 4.5
+  },
+  {
+   "a": "Vi",
+   "b": "Warwick",
+   "reason": "Fille adoptive et son père Vander dans Arcane, Zaun, junglers",
+   "score": 4
+  },
+  {
+   "a": "Jayce",
+   "b": "Vi",
+   "reason": "Piltover, héros d'Arcane, énorme arme hextech (marteau/gants)",
+   "score": 4
+  },
+  {
+   "a": "Kalista",
+   "b": "Viego",
+   "reason": "Générale trahie et son oncle, roi de Camavor, spectres des Îles obscures",
+   "score": 4
+  },
+  {
+   "a": "Hecarim",
+   "b": "Viego",
+   "reason": "Roi et chevalier de Camavor maudits par la Ruine, junglers spectraux",
+   "score": 5
+  },
+  {
+   "a": "Gwen",
+   "b": "Viego",
+   "reason": "Poupée cousue par Isolde et son royal époux, liés à la Ruine",
+   "score": 4
+  },
+  {
+   "a": "Mordekaiser",
+   "b": "Viego",
+   "reason": "Rois revenants en armure, avides de pouvoir, lueurs vertes",
+   "score": 3.5
+  },
+  {
+   "a": "Jayce",
+   "b": "Viktor",
+   "reason": "Inventeurs de l'hextech à Piltover, ex-partenaires d'Arcane, poke à distance",
+   "score": 5
+  },
+  {
+   "a": "Heimerdinger",
+   "b": "Viktor",
+   "reason": "Professeur et assistant dans Arcane, mages inventeurs de Piltover",
+   "score": 4
+  },
+  {
+   "a": "Singed",
+   "b": "Viktor",
+   "reason": "Savants de Zaun, expériences sur le corps, croisés dans Arcane",
+   "score": 4
+  },
+  {
+   "a": "Leblanc",
+   "b": "Vladimir",
+   "reason": "Rose noire de Noxus, mages manipulateurs du mid, très anciens",
+   "score": 4.5
+  },
+  {
+   "a": "Volibear",
+   "b": "Warwick",
+   "reason": "Bêtes griffues géantes, combattants jungle/top, ultime en bond, soins",
+   "score": 4
+  },
+  {
+   "a": "Singed",
+   "b": "Warwick",
+   "reason": "Savant de Zaun et la bête née de ses expériences chimtech",
+   "score": 3.5
+  },
+  {
+   "a": "Rengar",
+   "b": "Warwick",
+   "reason": "Bêtes chasseuses qui traquent leur proie et bondissent dessus, junglers",
+   "score": 3.5
+  },
+  {
+   "a": "Naafiri",
+   "b": "Warwick",
+   "reason": "Canidés chasseurs qui achèvent les proies blessées",
+   "score": 3.5
+  },
+  {
+   "a": "Azir",
+   "b": "Xerath",
+   "reason": "Ascendants de Shurima, mages mid ; l'esclave a trahi son empereur",
+   "score": 4.5
+  },
+  {
+   "a": "Renekton",
+   "b": "Xerath",
+   "reason": "Transfigurés de Shurima enfermés dans un tombeau, l'un a rendu l'autre fou",
+   "score": 3.5
+  },
+  {
+   "a": "JarvanIV",
+   "b": "XinZhao",
+   "reason": "Prince et sénéchal de Demacia, lances et armures, junglers qui chargent",
+   "score": 5
+  },
+  {
+   "a": "Garen",
+   "b": "XinZhao",
+   "reason": "Guerriers d'élite démaciens en armure, fidèles à la couronne",
+   "score": 3.5
+  },
+  {
+   "a": "MonkeyKing",
+   "b": "XinZhao",
+   "reason": "Bâton ou lance, inspirés de héros chinois, dash, projection et ultime circulaire",
+   "score": 4
+  },
+  {
+   "a": "Yasuo",
+   "b": "Yone",
+   "reason": "Demi-frères ioniens épéistes, dashs, Q qui projette en l'air et ultime similaire",
+   "score": 5
+  },
+  {
+   "a": "Riven",
+   "b": "Yasuo",
+   "reason": "Épéistes exilés en quête de rédemption, dashs, bouclier et projection, top/mid",
+   "score": 4.5
+  },
+  {
+   "a": "Irelia",
+   "b": "Yasuo",
+   "reason": "Ioniens à lames, dashs en chaîne sur les sbires, top/mid, guerre contre Noxus",
+   "score": 4
+  },
+  {
+   "a": "MasterYi",
+   "b": "Yasuo",
+   "reason": "Épéistes ioniens très mobiles à coups critiques",
+   "score": 3.5
+  },
+  {
+   "a": "Yone",
+   "b": "Zed",
+   "reason": "Ioniens masqués, assassins mid, dégâts stockés puis retour au point de départ",
+   "score": 4
+  },
+  {
+   "a": "Briar",
+   "b": "Rell",
+   "reason": "Armes vivantes issues des expériences de la Rose noire de Noxus, libérées",
+   "score": 4
+  },
+  {
+   "a": "Leona",
+   "b": "Rell",
+   "reason": "Supports tanks d'engage en armure lourde, guerrières qui plongent au contact",
+   "score": 4
+  },
+  {
+   "a": "Alistar",
+   "b": "Rell",
+   "reason": "Supports tanks d'engage à charges et projections, anciens captifs de Noxus",
+   "score": 3.5
+  },
+  {
+   "a": "Kled",
+   "b": "Rell",
+   "reason": "Cavaliers noxiens qui chargent sur leur monture et peuvent en descendre",
+   "score": 4
+  },
+  {
+   "a": "Renekton",
+   "b": "Tryndamere",
+   "reason": "Guerriers top enragés à jauge de Fureur, soins via la rage et dash en mêlée",
+   "score": 4
+  },
+  {
+   "a": "Khazix",
+   "b": "Rengar",
+   "reason": "Rivaux jurés, un œil arraché, assassins jungle qui bondissent de l'invisibilité",
+   "score": 5
+  },
+  {
+   "a": "Aatrox",
+   "b": "Riven",
+   "reason": "Tops à épée géante, Q en trois temps, bonds et duels",
+   "score": 4
+  },
+  {
+   "a": "Irelia",
+   "b": "Riven",
+   "reason": "Guerrières top à lames, dashs en chaîne, liées à l'invasion noxienne d'Ionie",
+   "score": 4
+  },
+  {
+   "a": "Riven",
+   "b": "Yone",
+   "reason": "Épéistes en Ionie, combos de lame à dashs et projections en l'air",
+   "score": 4
+  },
+  {
+   "a": "Rumble",
+   "b": "Tristana",
+   "reason": "Yordles de Bandle, béguin de l'un pour l'autre, canon, roquettes et explosifs",
+   "score": 4
+  },
+  {
+   "a": "Heimerdinger",
+   "b": "Rumble",
+   "reason": "Yordles inventeurs bricoleurs de machines, mages qui tirent des roquettes",
+   "score": 3.5
+  },
+  {
+   "a": "MissFortune",
+   "b": "Samira",
+   "reason": "Tireuses bot à pistolets, ultime qui arrose une zone de balles",
+   "score": 3.5
+  },
+  {
+   "a": "Akshan",
+   "b": "Samira",
+   "reason": "Casse-cou stylés originaires de Shurima, flingue, acrobaties et dashs",
+   "score": 4
+  },
+  {
+   "a": "Lucian",
+   "b": "Samira",
+   "reason": "Tireurs bot à deux armes, dash agressif et rafales à courte portée",
+   "score": 4
+  },
+  {
+   "a": "Katarina",
+   "b": "Samira",
+   "reason": "Noxiennes acrobates à resets, ult tournoyante qui arrose tout autour",
+   "score": 4
+  },
+  {
+   "a": "Ashe",
+   "b": "Sejuani",
+   "reason": "Mères de guerre Iceborn rivales du Freljord, glace, ultime qui étourdit",
+   "score": 4.5
+  },
+  {
+   "a": "Lucian",
+   "b": "Senna",
+   "reason": "Couple de Sentinelles de la Lumière, armes reliques contre Thresh",
+   "score": 5
+  },
+  {
+   "a": "Akshan",
+   "b": "Senna",
+   "reason": "Sentinelles de la Lumière, tireurs à arme relique contre la Ruine",
+   "score": 4
+  },
+  {
+   "a": "Leblanc",
+   "b": "Shaco",
+   "reason": "Trompeurs à clones et illusions, blink et leurre pour duper l'ennemi",
+   "score": 3.5
+  },
+  {
+   "a": "MonkeyKing",
+   "b": "Shaco",
+   "reason": "Farceurs de la jungle qui deviennent invisibles en laissant un clone leurre",
+   "score": 3.5
+  },
+  {
+   "a": "Akali",
+   "b": "Shen",
+   "reason": "Ninjas Kinkou d'Ionie à énergie, maître et ancienne élève qui a quitté l'ordre",
+   "score": 4
+  },
+  {
+   "a": "Kennen",
+   "b": "Shen",
+   "reason": "Ninjas de l'ordre Kinkou d'Ionie, toplaners à énergie",
+   "score": 4
+  },
+  {
+   "a": "Galio",
+   "b": "Shen",
+   "reason": "Tanks protecteurs à provocation, ultime qui rejoint un allié de loin",
+   "score": 4
+  },
+  {
+   "a": "JarvanIV",
+   "b": "Shyvana",
+   "reason": "Demacia, la demi-dragonne a sauvé le prince et le sert, junglers combattants",
+   "score": 4
+  },
+  {
+   "a": "Mordekaiser",
+   "b": "Sion",
+   "reason": "Revenants noxiens ressuscités, colosses en armure du top",
+   "score": 4
+  },
+  {
+   "a": "Malphite",
+   "b": "Sion",
+   "reason": "Tanks top dont l'ult est une charge imparable qui projette",
+   "score": 3.5
+  },
+  {
+   "a": "Azir",
+   "b": "Sivir",
+   "reason": "Empereur de Shurima et sa descendante, dont le sang l'a ressuscité",
+   "score": 3.5
+  },
+  {
+   "a": "Akshan",
+   "b": "Sivir",
+   "reason": "Tireurs aventuriers de Shurima, tous deux lancent un boomerang",
+   "score": 4
+  },
+  {
+   "a": "MissFortune",
+   "b": "Sivir",
+   "reason": "Tireuses mercenaires et chasseuses de primes, tirs qui rebondissent",
+   "score": 4
+  },
+  {
+   "a": "Kaisa",
+   "b": "Kassadin",
+   "reason": "Père et fille de Shurima, chasseurs du Néant en armure, sauts et téléportations",
+   "score": 5
+  },
+  {
+   "a": "Kaisa",
+   "b": "Khazix",
+   "reason": "Sorts qui évoluent, bonus sur cible isolée, invisibilité, liés au Néant",
+   "score": 4
+  },
+  {
+   "a": "Kaisa",
+   "b": "KogMaw",
+   "reason": "Tireurs bot du Néant, hypercarrys hybrides AD/AP basés sur la vitesse d'attaque",
+   "score": 4
+  },
+  {
+   "a": "Belveth",
+   "b": "Kaisa",
+   "reason": "Femmes du Néant violettes qui évoluent, carrys à vitesse d'attaque",
+   "score": 3.5
+  },
+  {
+   "a": "Hecarim",
+   "b": "Kalista",
+   "reason": "Guerriers de Camavor devenus spectres, l'un a trahi et tué l'autre",
+   "score": 3.5
+  },
+  {
+   "a": "Kalista",
+   "b": "Varus",
+   "reason": "Tireurs bot « de la vengeance », cumuls à faire éclater sur la cible",
+   "score": 4
+  },
+  {
+   "a": "Kassadin",
+   "b": "Malzahar",
+   "reason": "Shurimans liés au Néant, mages mid violets, l'un traque l'autre",
+   "score": 5
+  },
+  {
+   "a": "Katarina",
+   "b": "Leblanc",
+   "reason": "Assassines AP noxiennes de la mid, blinks et burst éclair",
+   "score": 4
+  },
+  {
+   "a": "Akali",
+   "b": "Katarina",
+   "reason": "Assassines mid ultra mobiles à lames, burst",
+   "score": 3.5
+  },
+  {
+   "a": "Kayle",
+   "b": "Morgana",
+   "reason": "Sœurs jumelles ailées demi-célestes, filles d'un Aspect de Targon",
+   "score": 5
+  },
+  {
+   "a": "Kayle",
+   "b": "Leona",
+   "reason": "Guerrières sacrées en armure dorée, épée de feu céleste, liées à Targon",
+   "score": 4
+  },
+  {
+   "a": "Akali",
+   "b": "Kayn",
+   "reason": "Assassins ioniens issus d'ordres ninjas rivaux, ombre, faux/kama",
+   "score": 4
+  },
+  {
+   "a": "Akali",
+   "b": "Kennen",
+   "reason": "Ninjas formés par l'ordre Kinkou d'Ionie, kit à énergie et shurikens",
+   "score": 3.5
+  },
+  {
+   "a": "Kennen",
+   "b": "Rumble",
+   "reason": "Yordles AP de toplane, électricité, ultime de zone dévastatrice",
+   "score": 4
+  },
+  {
+   "a": "Belveth",
+   "b": "Khazix",
+   "reason": "Monstres du Néant junglers qui évoluent et se renforcent en tuant",
+   "score": 4
+  },
+  {
+   "a": "Kled",
+   "b": "Sion",
+   "reason": "Soldats noxiens enragés du top, ultime en charge sur une longue distance",
+   "score": 4
+  },
+  {
+   "a": "Gnar",
+   "b": "Kled",
+   "reason": "Yordles du top dont la jauge (rage/courage) change la forme en combat",
+   "score": 3.5
+  },
+  {
+   "a": "Leblanc",
+   "b": "Mel",
+   "reason": "Magiciennes noxiennes liées à la Rose noire, pouvoirs de reflet",
+   "score": 3.5
+  },
+  {
+   "a": "LeeSin",
+   "b": "MasterYi",
+   "reason": "Maîtres martiaux d'Ionie, junglers disciplinés qui méditent",
+   "score": 4
+  },
+  {
+   "a": "Aatrox",
+   "b": "Renekton",
+   "reason": "Transfigurés déchus de Shurima, bruisers top massifs qui se soignent",
+   "score": 4
+  },
+  {
+   "a": "Aatrox",
+   "b": "Darius",
+   "reason": "Colosses top à arme géante, Q à bout de lame, attraction, look rouge et noir",
+   "score": 4
+  },
+  {
+   "a": "Ahri",
+   "b": "Aurora",
+   "reason": "Vastayas à oreilles animales liées aux esprits, mages mid très mobiles",
+   "score": 4
+  },
+  {
+   "a": "Akshan",
+   "b": "Lucian",
+   "reason": "Sentinelles de la Lumière, armes reliques, double tir, dashs, vengeance",
+   "score": 5
+  },
+  {
+   "a": "Ambessa",
+   "b": "Mel",
+   "reason": "Mère et fille Medarda, noblesse de Noxus (Arcane)",
+   "score": 4
+  },
+  {
+   "a": "Ambessa",
+   "b": "Darius",
+   "reason": "Généraux noxiens en armure, Q plus fort au bord, ultime d'exécution",
+   "score": 4
+  },
+  {
+   "a": "Ambessa",
+   "b": "Riven",
+   "reason": "Guerrières noxiennes du top, combos de dashs enchaînés",
+   "score": 4
+  },
+  {
+   "a": "Amumu",
+   "b": "Nunu",
+   "reason": "Enfants esseulés en quête d'ami, tanks jungle à gros ultime de zone",
+   "score": 4
+  },
+  {
+   "a": "Anivia",
+   "b": "Lissandra",
+   "reason": "Mages de glace du Freljord, mid, contrôle de zone et autoprotection",
+   "score": 4.5
+  },
+  {
+   "a": "Anivia",
+   "b": "Ashe",
+   "reason": "Glace du Freljord, ralentissements à foison, oiseau (phénix/faucon)",
+   "score": 4
+  },
+  {
+   "a": "Anivia",
+   "b": "Nunu",
+   "reason": "Freljord et glace, ultimes de zone glacials qui ralentissent",
+   "score": 4
+  },
+  {
+   "a": "Annie",
+   "b": "Brand",
+   "reason": "Mages de feu qui embrasent et étourdissent, mid ou support",
+   "score": 4
+  },
+  {
+   "a": "Aphelios",
+   "b": "Lucian",
+   "reason": "Tireurs bot ténébreux en manteau, deux armes en main, voués à une cause",
+   "score": 4
+  },
+  {
+   "a": "Ashe",
+   "b": "Lissandra",
+   "reason": "Reines nées de la glace du Freljord, liées à Avarosa (héritière et sœur)",
+   "score": 3.5
+  },
+  {
+   "a": "Galio",
+   "b": "Malphite",
+   "reason": "Colosses de pierre tanky AP, ultime en saut qui projette toute une zone",
+   "score": 4.5
+  },
+  {
+   "a": "Gangplank",
+   "b": "MissFortune",
+   "reason": "Ennemis jurés de Bilgewater, capitaines pirates armés, ulti de zone en rafale",
+   "score": 5
+  },
+  {
+   "a": "Gangplank",
+   "b": "Graves",
+   "reason": "Hors-la-loi barbus de Bilgewater, armes à feu et tempérament explosif",
+   "score": 4
+  },
+  {
+   "a": "Garen",
+   "b": "Lux",
+   "reason": "Frère et sœur Crownguard, nobles de Demacia",
+   "score": 4
+  },
+  {
+   "a": "Garen",
+   "b": "JarvanIV",
+   "reason": "Amis démaciens proches, guerriers mêlée en armure bleu et or",
+   "score": 4
+  },
+  {
+   "a": "Graves",
+   "b": "MissFortune",
+   "reason": "Flingueurs de Bilgewater, mêlés à la chute du roi des pirates",
+   "score": 4
+  },
+  {
+   "a": "Heimerdinger",
+   "b": "Jayce",
+   "reason": "Inventeurs géniaux de Piltover, membres du Conseil dans Arcane",
+   "score": 4
+  },
+  {
+   "a": "Hwei",
+   "b": "Jhin",
+   "reason": "Artistes ioniens tourmentés liés par un massacre, l'art comme arme",
+   "score": 5
+  },
+  {
+   "a": "Ivern",
+   "b": "Maokai",
+   "reason": "Hommes-arbres protecteurs de la nature, jouables jungle et support",
+   "score": 4.5
+  },
+  {
+   "a": "Ivern",
+   "b": "Lillia",
+   "reason": "Êtres sylvestres bienveillants d'Ionie liés à l'Arbre des rêves, junglers",
+   "score": 3.5
+  },
+  {
+   "a": "Janna",
+   "b": "Nami",
+   "reason": "Enchanteuses élémentaires (vent/eau) liées à la mer, soin et projection",
+   "score": 4
+  },
+  {
+   "a": "Janna",
+   "b": "Milio",
+   "reason": "Enchanteurs élémentaires (vent/feu) : bouclier, soin, repoussent l'ennemi",
+   "score": 4
+  },
+  {
+   "a": "Jax",
+   "b": "MonkeyKing",
+   "reason": "Combattants au bâton, bond sur cible, bruisers top/jungle agiles",
+   "score": 3.5
+  },
+  {
+   "a": "Jax",
+   "b": "XinZhao",
+   "reason": "Arme d'hast, dash ciblé, auto-attaques rapides, bruisers top/jungle",
+   "score": 4
+  },
+  {
+   "a": "Jhin",
+   "b": "Shaco",
+   "reason": "Psychopathes masqués et théâtraux, posent des pièges, meurtre en spectacle",
+   "score": 4
+  },
+  {
+   "a": "Jhin",
+   "b": "MissFortune",
+   "reason": "Tireurs bot à armes à feu, ultime canalisé en cône, goût du spectacle",
+   "score": 4
+  },
+  {
+   "a": "Hecarim",
+   "b": "Lillia",
+   "reason": "Junglers quadrupèdes, Q qui tournoie autour de soi et vitesse qui s'accumule",
+   "score": 4
+  },
+  {
+   "a": "Katarina",
+   "b": "Locke",
+   "reason": "Assassins AP mid au corps à corps, lames/clous lancés, blink et reset sur kill",
+   "score": 4
+  },
+  {
+   "a": "Lucian",
+   "b": "MissFortune",
+   "reason": "Tireurs bot à deux pistolets, ultime en rafale de balles, quête de vengeance",
+   "score": 4
+  },
+  {
+   "a": "Lux",
+   "b": "Morgana",
+   "reason": "Mages support : entrave en ligne au Q, bouclier et zone au sol",
+   "score": 4
+  },
+  {
+   "a": "MasterYi",
+   "b": "MonkeyKing",
+   "reason": "Maître et élève du Wuju en Ionie, combattants agiles des arts martiaux",
+   "score": 4
+  },
+  {
+   "a": "Lulu",
+   "b": "Milio",
+   "reason": "Enchanteurs mignons avec compagnon (Pix/Fuemigo), bouclier et vitesse sur allié",
+   "score": 4
+  },
+  {
+   "a": "Darius",
+   "b": "Mordekaiser",
+   "reason": "Juggernauts noxiens en armure du top, frappe de zone et attraction au E",
+   "score": 4
+  },
+  {
+   "a": "Morgana",
+   "b": "Thresh",
+   "reason": "Supports catch à entrave ou grappin, chaînes et âmes, thème sombre",
+   "score": 4
+  },
+  {
+   "a": "Orianna",
+   "b": "Zilean",
+   "reason": "Thème horlogerie, mages qui accélèrent les alliés et ralentissent les ennemis",
+   "score": 4
+  },
+  {
+   "a": "Annie",
+   "b": "Zoe",
+   "reason": "Fillettes mages espiègles et redoutables, burst au mid",
+   "score": 4
+  },
+  {
+   "a": "Mordekaiser",
+   "b": "Vladimir",
+   "reason": "Immortels de la Noxus antique, toplaners AP qui encaissent et se soignent",
+   "score": 4
+  },
+  {
+   "a": "Kennen",
+   "b": "Volibear",
+   "reason": "Incarnations de la tempête au top : éclairs, étourdissements, ultime orageux",
+   "score": 3.5
+  },
+  {
+   "a": "Kindred",
+   "b": "Warwick",
+   "reason": "Loups chasseurs de la jungle qui traquent leurs proies",
+   "score": 3.5
+  },
+  {
+   "a": "Khazix",
+   "b": "Warwick",
+   "reason": "Prédateurs monstrueux de la jungle, bondissent sur les proies seules ou blessées",
+   "score": 4
+  },
+  {
+   "a": "Viktor",
+   "b": "Xerath",
+   "reason": "Mages mid qui transcendent la chair, rayons d'énergie et sorts de zone",
+   "score": 4
+  },
+  {
+   "a": "Sona",
+   "b": "Yuumi",
+   "reason": "Supports enchanteurs : soin, vitesse, poke magique et ultime qui immobilise",
+   "score": 3.5
+  },
+  {
+   "a": "Seraphine",
+   "b": "Yuumi",
+   "reason": "Enchanteresses mignonnes : soins, boucliers et ultime en vague de contrôle",
+   "score": 4
+  },
+  {
+   "a": "Nasus",
+   "b": "Zaahen",
+   "reason": "Ascendés nobles de Shurima en top, en lutte contre leurs frères corrompus",
+   "score": 3.5
+  },
+  {
+   "a": "Ahri",
+   "b": "Lillia",
+   "reason": "Créatures magiques d'Ionie à oreilles animales (renarde/faon), dégâts AP",
+   "score": 3.5
+  },
+  {
+   "a": "Ahri",
+   "b": "Seraphine",
+   "reason": "Mages AP charmeuses (sort de charme), stars de K/DA",
+   "score": 3.5
+  },
+  {
+   "a": "Akali",
+   "b": "LeeSin",
+   "reason": "Ionie, arts martiaux, énergie, skillshot puis dash sur la cible marquée",
+   "score": 4
+  },
+  {
+   "a": "Ambessa",
+   "b": "Camille",
+   "reason": "Nobles impitoyables (Medarda/Ferros), plongeuses du top, ultime sur une cible",
+   "score": 3.5
+  },
+  {
+   "a": "Amumu",
+   "b": "Nautilus",
+   "reason": "Tanks solitaires jungle ou support, Q grappin qui les tire vers la cible, engage",
+   "score": 4
+  },
+  {
+   "a": "Azir",
+   "b": "Swain",
+   "reason": "Souverains mages à la tête d'un empire, liés aux oiseaux (faucon/corbeaux)",
+   "score": 4
+  },
+  {
+   "a": "Bard",
+   "b": "Thresh",
+   "reason": "Supports roaming qui récoltent carillons ou âmes et transportent leurs alliés",
+   "score": 4
+  },
+  {
+   "a": "Belveth",
+   "b": "Elise",
+   "reason": "Reines monstrueuses de la jungle qui se changent en forme bestiale",
+   "score": 4
+  },
+  {
+   "a": "Belveth",
+   "b": "Viego",
+   "reason": "Souverains monstrueux de la jungle sans ressource, menaces apocalyptiques",
+   "score": 4
+  },
+  {
+   "a": "Blitzcrank",
+   "b": "Urgot",
+   "reason": "Colosses mécaniques de Zaun qui attirent l'ennemi jusqu'à eux",
+   "score": 4
+  },
+  {
+   "a": "Karma",
+   "b": "Sona",
+   "reason": "Enchanteuses support nées en Ionie : poke, bouclier et bonus de vitesse",
+   "score": 3.5
+  },
+  {
+   "a": "Nami",
+   "b": "Soraka",
+   "reason": "Enchanteresses soigneuses en support, soin ciblé et contrôle de zone",
+   "score": 3.5
+  },
+  {
+   "a": "Sylas",
+   "b": "Thresh",
+   "reason": "Chaînes en arme, grappin vers l'ennemi, thème prison (prisonnier/geôlier)",
+   "score": 4
+  },
+  {
+   "a": "Leblanc",
+   "b": "Sylas",
+   "reason": "Mages assassins mid : dash, chaîne qui immobilise, ultime qui copie des sorts",
+   "score": 4
+  },
+  {
+   "a": "TahmKench",
+   "b": "TwistedFate",
+   "reason": "Beaux parleurs roublards à chapeau de Bilgewater, adeptes des paris et marchés",
+   "score": 4
+  },
+  {
+   "a": "TahmKench",
+   "b": "Thresh",
+   "reason": "Monstres support cruels qui se repaissent de souffrance, sauvent un allié",
+   "score": 4
+  },
+  {
+   "a": "Kayn",
+   "b": "Talon",
+   "reason": "Assassins d'origine noxienne formés jeunes, franchissent les murs",
+   "score": 4
+  },
+  {
+   "a": "Rakan",
+   "b": "Taric",
+   "reason": "Supports flamboyants et charmeurs, beauté et glamour assumés",
+   "score": 3.5
+  },
+  {
+   "a": "Poppy",
+   "b": "Taric",
+   "reason": "Tanks protecteurs d'origine démacienne, gardiens dévoués, jouables support",
+   "score": 4
+  },
+  {
+   "a": "Ornn",
+   "b": "Trundle",
+   "reason": "Géants du Freljord, tanks top qui font surgir un pilier",
+   "score": 3.5
+  },
+  {
+   "a": "Mordekaiser",
+   "b": "Trundle",
+   "reason": "Rois bruisers du top à masse d'armes, ultime qui vole les stats de l'ennemi",
+   "score": 3.5
+  },
+  {
+   "a": "Twitch",
+   "b": "Varus",
+   "reason": "Tireurs bot qui cumulent des marques toxiques puis les font éclater",
+   "score": 4
+  },
+  {
+   "a": "Urgot",
+   "b": "Viktor",
+   "reason": "Cyborgs de Zaun, corps augmentés par la machine",
+   "score": 4
+  },
+  {
+   "a": "Gnar",
+   "b": "Trundle",
+   "reason": "Brutes top du Freljord liées à la Glace pure (prison de glace, massue)",
+   "score": 4
+  },
+  {
+   "a": "Gragas",
+   "b": "Ornn",
+   "reason": "Colosses barbus du Freljord, artisans forgeron et brasseur, E de charge",
+   "score": 4
+  },
+  {
+   "a": "Hecarim",
+   "b": "Sejuani",
+   "reason": "Cavaliers à quatre pattes qui chargent dans le tas, junglers d'engage",
+   "score": 3.5
+  },
+  {
+   "a": "Irelia",
+   "b": "Katarina",
+   "reason": "Danseuses de lames mortelles, dashs réinitialisés à chaque élimination",
+   "score": 4
+  },
+  {
+   "a": "Jax",
+   "b": "Kassadin",
+   "reason": "Guerriers masqués aux yeux luisants qui combattent le Néant",
+   "score": 4
+  },
+  {
+   "a": "Kaisa",
+   "b": "Vayne",
+   "reason": "Chasseuses ADC solitaires de monstres, invisibilité et dash/roulade",
+   "score": 4
+  },
+  {
+   "a": "Kaisa",
+   "b": "RekSai",
+   "reason": "Liées au Néant sous les sables de Shurima, carapace violette",
+   "score": 3.5
+  },
+  {
+   "a": "Nocturne",
+   "b": "Zed",
+   "reason": "Maîtres de l'ombre à lames aux bras, assassins qui fondent sur leur cible",
+   "score": 4
+  },
+  {
+   "a": "Nunu",
+   "b": "Rammus",
+   "reason": "Junglers tanks qui roulent en boule à toute vitesse pour engager",
+   "score": 4
+  },
+  {
+   "a": "DrMundo",
+   "b": "Olaf",
+   "reason": "Lancent une arme qui ralentit, juggernauts top qui résistent aux contrôles",
+   "score": 3.5
+  },
+  {
+   "a": "Olaf",
+   "b": "Sion",
+   "reason": "Brutes à la hache avides de combat, ult imparable, top lane",
+   "score": 4
+  },
+  {
+   "a": "Lulu",
+   "b": "Orianna",
+   "reason": "Mages dont le compagnon (fée / balle) se pose sur un allié pour le protéger",
+   "score": 4
+  },
+  {
+   "a": "Mordekaiser",
+   "b": "Rell",
+   "reason": "Noxiens en armure de fer intégrale, tous deux titrés « de fer »",
+   "score": 3.5
+  },
+  {
+   "a": "Rell",
+   "b": "Sejuani",
+   "reason": "Cavalières tanks sur leur monture, spécialistes de l'engage",
+   "score": 3.5
+  },
+  {
+   "a": "Jhin",
+   "b": "Senna",
+   "reason": "Tireurs lents à très longue portée, root avec le W, ult de tir à distance",
+   "score": 4
+  },
+  {
+   "a": "Lux",
+   "b": "Seraphine",
+   "reason": "Mages support joyeuses, bouclier allié, root et ult en ligne qui traverse",
+   "score": 4
+  },
+  {
+   "a": "Nami",
+   "b": "Seraphine",
+   "reason": "Supports enchanteresses (soins, vitesse), ult en grande vague",
+   "score": 3.5
+  },
+  {
+   "a": "Briar",
+   "b": "Tryndamere",
+   "reason": "Berserkers frénétiques, plus forts à bas PV, se soignent en frappant",
+   "score": 4
+  },
+  {
+   "a": "Caitlyn",
+   "b": "MissFortune",
+   "reason": "Tireuses bot à grand chapeau et arme à feu, traquent les criminels",
+   "score": 4
+  },
+  {
+   "a": "Draven",
+   "b": "Jhin",
+   "reason": "Tireurs bot narcissiques pour qui tuer est un spectacle",
+   "score": 4
+  },
+  {
+   "a": "Ezreal",
+   "b": "Jinx",
+   "reason": "Jeunes tireurs bot de Piltover/Zaun, insouciants, ultime global",
+   "score": 4
+  },
+  {
+   "a": "Galio",
+   "b": "Garen",
+   "reason": "Défenseurs emblématiques de Demacia, symboles de sa lutte contre la magie",
+   "score": 4
+  },
+  {
+   "a": "Galio",
+   "b": "Kayle",
+   "reason": "Démaciens ailés, ultime qui protège un allié à distance",
+   "score": 3.5
+  },
+  {
+   "a": "Lulu",
+   "b": "Neeko",
+   "reason": "Mages support mignonnes et colorées, maîtresses des transformations",
+   "score": 4
+  },
+  {
+   "a": "Malphite",
+   "b": "Nautilus",
+   "reason": "Colosses tanks lents, bouclier et ult imparable qui projette en l'air",
+   "score": 4
+  },
+  {
+   "a": "Lissandra",
+   "b": "Malzahar",
+   "reason": "Mages de contrôle mid liés au Néant (Veilleurs), ult ciblée qui immobilise",
+   "score": 4
+  },
+  {
+   "a": "Lux",
+   "b": "Mel",
+   "reason": "Filles de grandes familles militaires, magie de lumière, mages à entrave",
+   "score": 4
+  },
+  {
+   "a": "Milio",
+   "b": "Nami",
+   "reason": "Supports enchanteurs élémentaires (eau/feu), soins, buff d'attaques d'allié",
+   "score": 4
+  },
+  {
+   "a": "Karma",
+   "b": "Milio",
+   "reason": "Supports enchanteurs à bouclier et vitesse, magie de flamme spirituelle",
+   "score": 4
+  },
+  {
+   "a": "MonkeyKing",
+   "b": "Neeko",
+   "reason": "Vastayas farceurs qui deviennent invisibles en lâchant un clone leurre",
+   "score": 4
+  },
+  {
+   "a": "Aatrox",
+   "b": "Mordekaiser",
+   "reason": "Tyrans antiques revenus, colosses maléfiques en armure sombre du top",
+   "score": 4
+  },
+  {
+   "a": "Nasus",
+   "b": "Volibear",
+   "reason": "Êtres divins à forme animale (chacal / ours), ult qui les rend gigantesques",
+   "score": 4
+  },
+  {
+   "a": "Khazix",
+   "b": "Nidalee",
+   "reason": "Prédateurs de la jungle qui bondissent sur leur proie pour l'achever",
+   "score": 4
+  },
+  {
+   "a": "Kalista",
+   "b": "Lucian",
+   "reason": "Tireurs bot mus par la vengeance, kite très mobile, liés à la Brume noire",
+   "score": 4
+  },
+  {
+   "a": "Garen",
+   "b": "Kayle",
+   "reason": "Démaciens du top à l'épée, avec un sort « Jugement » dans leur kit",
+   "score": 4
+  },
+  {
+   "a": "KSante",
+   "b": "Poppy",
+   "reason": "Tanks du top au bouclier qui projettent l'ennemi contre ou à travers les murs",
+   "score": 4
+  },
+  {
+   "a": "Leblanc",
+   "b": "Lissandra",
+   "reason": "Sorcières manipulatrices qui réécrivent l'histoire, téléportation et entrave",
+   "score": 4
+  },
+  {
+   "a": "Ekko",
+   "b": "Locke",
+   "reason": "Assassins AP mêlée du mid, E qui repositionne puis fond sur la cible",
+   "score": 4
+  },
+  {
+   "a": "Gwen",
+   "b": "Locke",
+   "reason": "Combattants AP mêlée qui lancent aiguilles/clous en 3 temps, chassent le mal",
+   "score": 4
+  },
+  {
+   "a": "Darius",
+   "b": "Zaahen",
+   "reason": "Colosses armurés du top, attraction et dégâts accrus en bord de zone",
+   "score": 4
+  },
+  {
+   "a": "Draven",
+   "b": "Jinx",
+   "reason": "ADC bot exubérants, bonus aux kills, ult globale, adorent le spectacle",
+   "score": 4
+  },
+  {
+   "a": "Ekko",
+   "b": "Zoe",
+   "reason": "Ados espiègles AP mid, temps/espace, ult qui ramène à la position initiale",
+   "score": 4
+  },
+  {
+   "a": "Gnar",
+   "b": "Tristana",
+   "reason": "Yordles qui sautent, tirent à distance, ult qui repousse",
+   "score": 4
+  },
+  {
+   "a": "Gnar",
+   "b": "Olaf",
+   "reason": "Freljordiens top qui lancent une arme à rattraper",
+   "score": 4
+  },
+  {
+   "a": "Akali",
+   "b": "Gwen",
+   "reason": "Mêlée AP du top, zone (fumée / brume) qui les cache et les protège",
+   "score": 4
+  },
+  {
+   "a": "Hecarim",
+   "b": "Warwick",
+   "reason": "Bêtes de la jungle qui foncent, terrifient (peur) et se soignent",
+   "score": 4
+  },
+  {
+   "a": "Draven",
+   "b": "Sett",
+   "reason": "Showmen musclés et vaniteux de l'arène qui adorent le spectacle et la foule",
+   "score": 4
+  },
+  {
+   "a": "Amumu",
+   "b": "Karthus",
+   "reason": "Morts-vivants, aura de dégâts activable, ulti multicible, jouables en jungle",
+   "score": 4
+  },
+  {
+   "a": "Belveth",
+   "b": "Briar",
+   "reason": "Combattantes de jungle à la faim dévorante, frénésie de vitesse d'attaque",
+   "score": 4
+  },
+  {
+   "a": "Camille",
+   "b": "Riven",
+   "reason": "Combattantes top à dashs et lames, reines du duel",
+   "score": 4
+  },
+  {
+   "a": "Jax",
+   "b": "Pantheon",
+   "reason": "Guerriers top au visage caché : bond sur cible, blocage et étourdissement",
+   "score": 4
+  },
+  {
+   "a": "Karthus",
+   "b": "Malzahar",
+   "reason": "Mages mid en robe qui lévitent, hérauts de l'anéantissement",
+   "score": 4
+  },
+  {
+   "a": "Aatrox",
+   "b": "Swain",
+   "reason": "Ulti démoniaque ailé, drain de vie en combat prolongé, look rouge et sombre",
+   "score": 4
+  },
+  {
+   "a": "Briar",
+   "b": "Nocturne",
+   "reason": "Junglers AD : ulti qui plonge de loin sur une cible, peur dans le kit",
+   "score": 4
+  },
+  {
+   "a": "Irelia",
+   "b": "Rakan",
+   "reason": "Danseurs de combat d'Ionie qui enchaînent les dashs",
+   "score": 4
+  },
+  {
+   "a": "Elise",
+   "b": "RekSai",
+   "reason": "Reines monstres (araignée / insecte) de jungle à deux formes de sorts",
+   "score": 4
+  },
+  {
+   "a": "Blitzcrank",
+   "b": "Renata",
+   "reason": "Supports de Zaun, grappin mécanique qui agrippe l'ennemi",
+   "score": 3
+  },
+  {
+   "a": "Ryze",
+   "b": "Zilean",
+   "reason": "Vieux mages chauves et barbus, détenteurs de savoirs anciens",
+   "score": 3
+  },
+  {
+   "a": "Aurora",
+   "b": "Kassadin",
+   "reason": "Mages-assassins mid qui voyagent entre deux mondes (esprits / Néant)",
+   "score": 3
+  },
+  {
+   "a": "Brand",
+   "b": "Ryze",
+   "reason": "Ennemis liés aux Runes telluriques, mages à combos de sorts",
+   "score": 3
+  },
+  {
+   "a": "Chogath",
+   "b": "Velkoz",
+   "reason": "Monstres violets du Néant, sort de zone qui projette en l'air depuis le sol",
+   "score": 3
+  },
+  {
+   "a": "Gragas",
+   "b": "Zac",
+   "reason": "Junglers qui chargent avec leur corps et repoussent tout le monde",
+   "score": 3
+  },
+  {
+   "a": "Hwei",
+   "b": "Karma",
+   "reason": "Mages support d'Ionie, sorts à variantes multiples",
+   "score": 3
+  },
+  {
+   "a": "Gangplank",
+   "b": "Illaoi",
+   "reason": "Figures de Bilgewater, combattants top au corps à corps",
+   "score": 3
+  },
+  {
+   "a": "Kindred",
+   "b": "Quinn",
+   "reason": "Duos de chasseurs avec un compagnon animal, tireurs qui traquent",
+   "score": 3
+  },
+  {
+   "a": "KSante",
+   "b": "Skarner",
+   "reason": "Tanks top/jungle qui saisissent l'ennemi et l'envoient dans un mur",
+   "score": 3
+  },
+  {
+   "a": "Nilah",
+   "b": "Yone",
+   "reason": "Combattants mobiles en mêlée, armés d'une lame démoniaque",
+   "score": 3
+  },
+  {
+   "a": "Qiyana",
+   "b": "Talon",
+   "reason": "Assassins AD mid létalité, dashs et burst instantané",
+   "score": 3
+  },
+  {
+   "a": "Camille",
+   "b": "Renata",
+   "reason": "Élite impitoyable de Piltover/Zaun, élégantes à prothèse mécanique",
+   "score": 3
+  },
+  {
+   "a": "Xayah",
+   "b": "Yunara",
+   "reason": "Tireuses bot d'Ionie, esthétique spirituelle et attaques rapides",
+   "score": 3
+  },
+  {
+   "a": "Alistar",
+   "b": "Blitzcrank",
+   "reason": "Supports tanks d'engage, projection en l'air et gros contrôle",
+   "score": 3
+  },
+  {
+   "a": "Aphelios",
+   "b": "Xayah",
+   "reason": "ADC aux projectiles qui reviennent vers eux (plumes / Crescendum)",
+   "score": 3
+  },
+  {
+   "a": "AurelionSol",
+   "b": "Diana",
+   "reason": "Liés au mont Targon, pouvoirs célestes (étoiles / lune), AP du mid",
+   "score": 3
+  },
+  {
+   "a": "Aurora",
+   "b": "Lillia",
+   "reason": "Mignonnes aux traits animaux (lapine / faon), liées au royaume des esprits",
+   "score": 3
+  },
+  {
+   "a": "Bard",
+   "b": "Ryze",
+   "reason": "Gardiens errants d'artefacts cosmiques, portails / téléportation",
+   "score": 3
+  },
+  {
+   "a": "Brand",
+   "b": "Smolder",
+   "reason": "Thème feu : cumuls de passif qui font exploser leurs sorts en zone",
+   "score": 3
+  },
+  {
+   "a": "Cassiopeia",
+   "b": "Mel",
+   "reason": "Aristocrates noxiennes de grandes familles, mages mid élégantes",
+   "score": 3
+  },
+  {
+   "a": "Chogath",
+   "b": "KogMaw",
+   "reason": "Monstres du Néant à bouche géante qui dévorent tout",
+   "score": 3
+  },
+  {
+   "a": "Fizz",
+   "b": "Illaoi",
+   "reason": "De Bilgewater, liés à la mer, invoquent une créature marine",
+   "score": 3
+  },
+  {
+   "a": "Gragas",
+   "b": "Poppy",
+   "reason": "Tanks top/jungle : charge étourdissante et ulti qui repousse au loin",
+   "score": 3
+  },
+  {
+   "a": "Hwei",
+   "b": "Taliyah",
+   "reason": "Mages artistes (tisseuse / peintre), zones au sol et contrôle",
+   "score": 3
+  },
+  {
+   "a": "Karthus",
+   "b": "Vex",
+   "reason": "Mages des Îles obscures, sombres et lugubres, burst en zone",
+   "score": 3
+  },
+  {
+   "a": "Kindred",
+   "b": "Rengar",
+   "reason": "Chasseurs jungle qui marquent leurs proies et collectionnent les cibles",
+   "score": 3
+  },
+  {
+   "a": "KSante",
+   "b": "Pantheon",
+   "reason": "Guerriers du top qui parent les coups, plongent et étourdissent",
+   "score": 3
+  },
+  {
+   "a": "Gwen",
+   "b": "Maokai",
+   "reason": "Champions des Îles obscures, magie sacrée qui combat la Brume noire",
+   "score": 3
+  },
+  {
+   "a": "Naafiri",
+   "b": "Zaahen",
+   "reason": "Darkins de Shurima, anciens Ascendés liés à leur arme",
+   "score": 3
+  },
+  {
+   "a": "Katarina",
+   "b": "Nilah",
+   "reason": "Dashs en mêlée et ulti en tourbillon de lames",
+   "score": 3
+  },
+  {
+   "a": "Qiyana",
+   "b": "Zyra",
+   "reason": "Ixtaliennes maîtrisant la nature et la végétation",
+   "score": 3
+  },
+  {
+   "a": "Quinn",
+   "b": "Shyvana",
+   "reason": "Démaciennes liées à une créature ailée, guerrières au service du royaume",
+   "score": 3
+  },
+  {
+   "a": "Morgana",
+   "b": "Renata",
+   "reason": "Supports mages qui immobilisent d'un projectile et protègent d'un bouclier",
+   "score": 3
+  },
+  {
+   "a": "LeeSin",
+   "b": "Sett",
+   "reason": "Combattants ioniens à mains nues, coups de poing et projections d'ennemis",
+   "score": 3
+  },
+  {
+   "a": "Hwei",
+   "b": "Syndra",
+   "reason": "Mages mid d'Ionie à l'esprit tourmenté, contrôle et poke à distance",
+   "score": 3
+  },
+  {
+   "a": "Sett",
+   "b": "Udyr",
+   "reason": "Bagarreurs à mains nues, torse musclé, bruisers top ou jungle",
+   "score": 3
+  },
+  {
+   "a": "Karthus",
+   "b": "Yorick",
+   "reason": "Îles obscures, figures sinistres de la mort, requiem et rites funéraires",
+   "score": 3
+  },
+  {
+   "a": "Aphelios",
+   "b": "Yunara",
+   "reason": "Tireurs bot dévoués à leur foi, maniant des armes sacrées et mystiques",
+   "score": 3
+  },
+  {
+   "a": "Maokai",
+   "b": "Zac",
+   "reason": "Tanks d'engage non humains qui foncent sur l'ennemi et sèment de petits rejetons",
+   "score": 3
+  },
+  {
+   "a": "Janna",
+   "b": "Zeri",
+   "reason": "Protectrices de Zaun, rapides comme le vent ou l'éclair",
+   "score": 3
+  },
+  {
+   "a": "Alistar",
+   "b": "Gragas",
+   "reason": "Massifs qui chargent et projettent l'ennemi en l'air",
+   "score": 3
+  },
+  {
+   "a": "AurelionSol",
+   "b": "Bard",
+   "reason": "Êtres célestes venus des étoiles, magie cosmique",
+   "score": 3
+  },
+  {
+   "a": "Aurora",
+   "b": "Udyr",
+   "reason": "Mystiques du Freljord qui communiquent avec le monde des esprits",
+   "score": 3
+  },
+  {
+   "a": "Brand",
+   "b": "Xerath",
+   "reason": "Humains changés en énergie destructrice, mages d'artillerie mid ou support",
+   "score": 3
+  },
+  {
+   "a": "Cassiopeia",
+   "b": "Malzahar",
+   "reason": "Mages mid à dégâts sur la durée, corrompus dans les sables de Shurima",
+   "score": 3
+  },
+  {
+   "a": "Chogath",
+   "b": "Trundle",
+   "reason": "Monstres géants qui croquent l'ennemi, tanks top/jungle",
+   "score": 3
+  },
+  {
+   "a": "Fizz",
+   "b": "TwistedFate",
+   "reason": "Filous de Bilgewater, trompeurs et insaisissables",
+   "score": 3
+  },
+  {
+   "a": "Graves",
+   "b": "Pyke",
+   "reason": "Durs à cuire de Bilgewater trahis par leurs compagnons, assoiffés de vengeance",
+   "score": 3
+  },
+  {
+   "a": "Illaoi",
+   "b": "Velkoz",
+   "reason": "Tentacules à profusion, imagerie de monstre céphalopode",
+   "score": 3
+  },
+  {
+   "a": "Ivern",
+   "b": "Karma",
+   "reason": "Enchanteurs d'Ionie qui protègent leurs alliés d'un bouclier",
+   "score": 3
+  },
+  {
+   "a": "Kindred",
+   "b": "Nidalee",
+   "reason": "Chasseurs de la jungle qui marquent leurs proies",
+   "score": 3
+  },
+  {
+   "a": "Kled",
+   "b": "Poppy",
+   "reason": "Yordles guerriers en armure, combattants top",
+   "score": 3
+  },
+  {
+   "a": "KogMaw",
+   "b": "Smolder",
+   "reason": "Petites créatures tireuses bot qui crachent, hyper-carry de fin de partie",
+   "score": 3
+  },
+  {
+   "a": "KSante",
+   "b": "Renekton",
+   "reason": "Guerriers costauds de Shurima, combattants top liés aux Transfigurés",
+   "score": 3
+  },
+  {
+   "a": "Aatrox",
+   "b": "Naafiri",
+   "reason": "Darkins de Shurima piégés dans leur arme, soif de sang et de massacre",
+   "score": 3
+  },
+  {
+   "a": "Fiora",
+   "b": "Nilah",
+   "reason": "Duellistes en quête d'adversaires dignes, esquivent ou parent les coups",
+   "score": 3
+  },
+  {
+   "a": "Kayn",
+   "b": "Qiyana",
+   "reason": "Assassins arrogants qui exploitent les murs, mid ou jungle",
+   "score": 3
+  },
+  {
+   "a": "Kayle",
+   "b": "Quinn",
+   "reason": "Démaciennes au thème ailé, combattantes à distance jouées en top",
+   "score": 3
+  },
+  {
+   "a": "Renata",
+   "b": "Singed",
+   "reason": "Chimistes sans scrupules de Zaun qui font de la chimie une arme",
+   "score": 3
+  },
+  {
+   "a": "Ryze",
+   "b": "Xerath",
+   "reason": "Archimages antiques à l'énergie arcanique bleue, mages de mid",
+   "score": 3
+  },
+  {
+   "a": "Galio",
+   "b": "Shyvana",
+   "reason": "Démaciens ailés et imposants, protecteurs du royaume",
+   "score": 3
+  },
+  {
+   "a": "Locke",
+   "b": "Sylas",
+   "reason": "Démaciens aux magies interdites, cyniques face à l'hypocrisie démacienne",
+   "score": 3
+  },
+  {
+   "a": "Morgana",
+   "b": "Syndra",
+   "reason": "Magie noire, look violet sombre, mages rebelles et rancunières",
+   "score": 3
+  },
+  {
+   "a": "Nocturne",
+   "b": "Vex",
+   "reason": "Ombres vivantes, peur (fear) et dash final sur la cible",
+   "score": 3
+  },
+  {
+   "a": "Ahri",
+   "b": "Xayah",
+   "reason": "Vastayas d'Ionie au look animal élégant, projectiles qui reviennent",
+   "score": 3
+  },
+  {
+   "a": "Hecarim",
+   "b": "Yorick",
+   "reason": "Îles obscures, chefs de légions spectrales de morts",
+   "score": 3
+  },
+  {
+   "a": "Shen",
+   "b": "Yunara",
+   "reason": "Membres de l'ordre Kinkou d'Ionie, liés au royaume spirituel",
+   "score": 3
+  },
+  {
+   "a": "Amumu",
+   "b": "Zac",
+   "reason": "Tanks jungle à engage de zone, contrôle de foule massif",
+   "score": 3
+  },
+  {
+   "a": "Kennen",
+   "b": "Zeri",
+   "reason": "Électricité et vitesse fulgurante, ruées électrisantes",
+   "score": 3
+  },
+  {
+   "a": "Heimerdinger",
+   "b": "Zilean",
+   "reason": "Vieux savants excentriques à moustache blanche, lanceurs de bombes",
+   "score": 3
+  }
+ ]
+}
