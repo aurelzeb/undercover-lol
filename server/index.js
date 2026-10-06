@@ -66,7 +66,9 @@ export function createGameServer({
   app.get('/healthz', (_req, res) => res.json({ ok: true, rooms: rooms.size }))
   // Ouvert depuis le PC serveur (localhost), le lien d'invitation doit utiliser l'adresse Wi-Fi pour les téléphones.
   app.get('/api/lan', (req, res) => {
-    const local = ['127.0.0.1', '::1', '::ffff:127.0.0.1'].includes(req.socket.remoteAddress)
+    // Derrière un proxy (hébergement en ligne), la requête n'est jamais « locale » même si le proxy l'est.
+    const proxied = trustProxy || req.headers['x-forwarded-for'] !== undefined
+    const local = !proxied && ['127.0.0.1', '::1', '::ffff:127.0.0.1'].includes(req.socket.remoteAddress)
     const ip = local ? lanAddresses()[0] : null
     res.json({ origin: ip ? `http://${ip}:${httpServer.address().port}` : null })
   })
